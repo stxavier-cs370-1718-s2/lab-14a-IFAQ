@@ -19,7 +19,7 @@ public class Lab14avst extends Applet
     {
         g.drawRect(10,10,800,600);
         g.drawLine(10,300,810,300);
-        g.drawLine(410,10,410,610);
+        //g.drawLine(410,10,410,610);
     }
 }
 
